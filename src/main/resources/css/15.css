@@ -1,0 +1,12 @@
+div.cell {
+  width : 75px;
+  height : 75px;
+  background-color : #f0f0f0;
+  border : 1px solid #000;
+  text-align : center;
+}
+
+.g15-value {
+  font-weight : bold;
+  font-size   : 60px;
+}
