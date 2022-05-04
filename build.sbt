@@ -1,7 +1,7 @@
 enablePlugins(ScalaJSPlugin)
 jsEnv := new org.scalajs.jsenv.jsdomnodejs.JSDOMNodeJSEnv()
 
-ThisBuild / version := "0.1.0-SNAPSHOT"
+ThisBuild / version := "0.1.0"
 
 ThisBuild / scalaVersion := "2.13.8"
 
